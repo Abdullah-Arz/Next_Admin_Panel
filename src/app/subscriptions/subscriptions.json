@@ -1,0 +1,63 @@
+{
+    "status": true,
+    "status_code": 200,
+    "message": "Successfully fetch",
+    "data": [
+        {
+            "id": 1,
+            "title": "blog",
+            "blog_by": "John Wilson",
+            "price":"30",
+            "type":"monthly",
+            "category": "nutritionist",
+            "date_of_publish": "2023-09-21T06:27:02.967000Z",
+            "blog_image": "/uploads/profile_images/72/20231221134757.jpg",
+            "discription":"nutritionist nutritionist nutritionist nutritionist nutritionist"
+        },
+        {
+            "id": 2,
+            "title": "blog",
+            "blog_by": "John Wilson",
+            "price":"30",
+            "type":"monthly",
+            "category": "nutritionist",
+            "date_of_publish": "2023-09-21T06:27:02.967000Z",
+            "blog_image": "/uploads/profile_images/72/20231221134757.jpg",
+            "discription":"nutritionist nutritionist nutritionist nutritionist nutritionist"
+        },
+        {
+            "id": 3,
+            "title": "blog",
+            "blog_by": "John Wilson",
+            "price":"30",
+            "type":"monthly",
+            "category": "nutritionist",
+            "date_of_publish": "2023-09-21T06:27:02.967000Z",
+            "blog_image": "/uploads/profile_images/72/20231221134757.jpg",
+            "discription":"nutritionist nutritionist nutritionist nutritionist nutritionist"
+        },
+        {
+            "id": 4,
+            "title": "blog",
+            "blog_by": "John Wilson",
+            "price":"30",
+            "type":"monthly",
+            "category": "nutritionist",
+            "date_of_publish": "2023-09-21T06:27:02.967000Z",
+            "blog_image": "/uploads/profile_images/72/20231221134757.jpg",
+            "discription":"nutritionist nutritionist nutritionist nutritionist nutritionist"
+        },
+        {
+            "id": 5,
+            "title": "blog",
+            "blog_by": "John Wilson",
+            "price":"30",
+            "type":"monthly",
+            "category": "nutritionist",
+            "date_of_publish": "2023-09-21T06:27:02.967000Z",
+            "blog_image": "/uploads/profile_images/72/20231221134757.jpg",
+            "discription":"nutritionist nutritionist nutritionist nutritionist nutritionist"
+        }
+     
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "status": true,
+    "status_code": 200,
+    "message": "Successfully fetch",
+    "data": [
+        {
+            "id": 1,
+            "first_name": "Tony Reichert",
+            "phone_number": "+92-111-111-111",
+            "email": "tony.reichert@example.com",
+            "gender": "Male"
+          },
+          {
+            "id": 2,
+            "first_name": "Tony Reichert",
+            "phone_number": "+92-111-111-111",
+            "email": "tony.reichert@example.com",
+            "gender": "Male"
+          },
+          {
+            "id": 3,
+            "first_name": "Tony Reichert",
+            "phone_number": "+92-111-111-111",
+            "email": "tony.reichert@example.com",
+            "gender": "Male"
+          }
+     
+    ]
+}

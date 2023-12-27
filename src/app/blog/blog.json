@@ -1,0 +1,50 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "blog",
+            "blog_by": "John Wilson",
+            "category": "nutritionist",
+            "date_of_publish": "2023-09-21T06:27:02.967000Z",
+            "blog_image": "/uploads/profile_images/72/20231221134757.jpg",
+            "blog_content":"nutritionist nutritionist nutritionist nutritionist nutritionist"
+        },
+        {
+            "id": 2,
+            "title": "blog",
+            "blog_by": "John Wilson",
+            "category": "nutritionist",
+            "date_of_publish": "2023-09-21T06:27:02.967000Z",
+            "blog_image": "/uploads/profile_images/72/20231221134757.jpg",
+            "blog_content":"nutritionist nutritionist nutritionist nutritionist nutritionist"
+        },
+        {
+            "id": 3,
+            "title": "blog",
+            "blog_by": "John Wilson",
+            "category": "nutritionist",
+            "date_of_publish": "2023-09-21T06:27:02.967000Z",
+            "blog_image": "/uploads/profile_images/72/20231221134757.jpg",
+            "blog_content":"nutritionist nutritionist nutritionist nutritionist nutritionist"
+        },
+        {
+            "id": 4,
+            "title": "blog",
+            "blog_by": "John Wilson",
+            "category": "nutritionist",
+            "date_of_publish": "2023-09-21T06:27:02.967000Z",
+            "blog_image": "/uploads/profile_images/72/20231221134757.jpg",
+            "blog_content":"nutritionist nutritionist nutritionist nutritionist nutritionist"
+        },
+        {
+            "id": 5,
+            "title": "blog",
+            "blog_by": "John Wilson",
+            "category": "nutritionist",
+            "date_of_publish": "2023-09-21T06:27:02.967000Z",
+            "blog_image": "/uploads/profile_images/72/20231221134757.jpg",
+            "blog_content":"nutritionist nutritionist nutritionist nutritionist nutritionist"
+        }
+     
+    ]
+}

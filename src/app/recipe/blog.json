@@ -1,0 +1,52 @@
+{
+    "status": true,
+    "status_code": 200,
+    "message": "Successfully fetch",
+    "data": [
+        {
+            "id": 1,
+            "recipe": "taco stuffed shells recipe",
+            "yield": "abcd",
+                "prep_time": "59 minutes",
+                "cook_time": "25 minutes",
+                "total_time": "1 hr 24 minutes",
+                "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying",
+                "ingridients": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying"
+               
+        },
+        {
+            "id": 2,
+            "recipe": "chicken noodle soup casserole",
+            "yield": "abcd",
+            "prep_time": "59 minutes",
+            "cook_time": "25 minutes",
+            "total_time": "1 hr 24 minutes",
+            "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying",
+            "ingridients": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying"
+           
+        },
+        {
+            "id": 3,
+            "recipe": "salmon cakes",
+            "yield": "abcd",
+            "prep_time": "59 minutes",
+            "cook_time": "25 minutes",
+            "total_time": "1 hr 24 minutes",
+            "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying",
+            "ingridients": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying"
+           
+        },
+        {
+            "id": 4,
+            "recipe": "cheesy taco pasta",
+            "yield": "abcd",
+            "prep_time": "59 minutes",
+            "cook_time": "25 minutes",
+            "total_time": "1 hr 24 minutes",
+            "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying",
+            "ingridients": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying"
+           
+        }
+     
+    ]
+}

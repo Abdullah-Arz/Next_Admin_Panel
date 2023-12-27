@@ -1,0 +1,54 @@
+
+{
+    "status": true,
+    "status_code": 200,
+    "message": "Successfully fetch",
+    "data": [
+        {
+            "id": 11,
+            "name": "John ",
+            "category": "nutritionist",
+            "amount":"30",
+            "duartion":"10 days",
+            "date_and_time": "2023-09-21T06:27:02.967000Z",
+            "trasaction_id":"1Asw345TRww"
+        },
+        {
+            "id": 12,
+            "name": "Wilson",
+            "category": "nutritionist",
+            "amount":"30",
+            "duartion":"10 days",
+            "date_and_time": "2023-09-21T06:27:02.967000Z",
+            "trasaction_id":"1Asw345TRww"
+        },
+        {
+            "id": 13,
+            "name": "Jack",
+            "category": "nutritionist",
+            "amount":"30",
+            "duartion":"10 days",
+            "date_and_time": "2023-09-21T06:27:02.967000Z",
+            "trasaction_id":"1Asw345TRww"
+        },
+        {
+            "id": 14,
+            "name": "josh",
+            "category": "nutritionist",
+            "amount":"30",
+            "duartion":"10 days",
+            "date_and_time": "2023-09-21T06:27:02.967000Z",
+            "trasaction_id":"1Asw345TRww"
+        },
+        {
+            "id": 15,
+            "name": "Amber",
+            "category": "nutritionist",
+            "amount":"30",
+            "duartion":"10 days",
+            "date_and_time": "2023-09-21T06:27:02.967000Z",
+            "trasaction_id":"1Asw345TRww"
+        }
+     
+    ]
+}

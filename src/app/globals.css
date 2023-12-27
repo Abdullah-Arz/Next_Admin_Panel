@@ -1,0 +1,137 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255; */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0; */
+  }
+}
+
+
+
+/* Custom .subscription_select wrapper */
+.subscription_select {
+  position: relative;
+  display: flex;
+  /* width: 20em; */
+  height: 3em;
+  border-radius: .25em;
+  overflow: hidden;
+  background-color: #1a242f;
+}
+/* Arrow */
+.subscription_select::after {
+  content: '\25BC';
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 2em;
+  background-color: #1a242f;
+  transition: .25s all ease;
+  pointer-events: none;
+}
+/* Transition */
+.subscription_select:hover::after {
+  color: #f39c12;
+  background-color: #1a242f !important;
+  padding: 2em;
+
+}
+
+#blog_style-actions{
+  text-align: end;
+  padding-right: 3.5%;
+}
+#subscription-actions{
+  text-align: end;
+  padding-right: 6%;
+}
+body {
+ background-color: #0E0F12;
+}
+#blog_image_file::file-selector-button {
+  font-weight: 500;
+  color: black;
+  border: thin solid grey;
+  background-color: #9ca3af;
+  border-radius: 3px;
+}
+#blog_date::-webkit-calendar-picker-indicator {
+  cursor: pointer;
+  border-radius: 4px;
+  margin-right: 2px;
+  opacity: 0.6;
+  filter: invert(0.8);
+}
+
+
+/* Change the background and text color of autofill input fields */
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 30px #1a1b1e inset !important; /* Change the background color */
+  -webkit-text-fill-color: #fff;
+}
+/* #option_style:hover {
+  background-color: rgb(31, 31, 31)!important;
+  color: rgba(255, 255, 255, 0.703)!important;
+} */
+
+option:hover {
+  background-color: yellow !important;
+}
+
+/* .custom-hover-color:hover {
+  background-color: #6ba814 !important; 
+} */
+
+.custom-hover-color:focus {
+  border-width: none !important;
+}
+
+
+::-webkit-scrollbar {
+  display: block;
+  width: 5px;
+  /* height: 20px; */
+}
+
+::-webkit-scrollbar-track {
+  /* background: #242930; */
+  background: transparent;
+  border-radius: 5px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 5px;
+  border-right: none;
+    border-left: none;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-track-piece:end {
+  background: transparent;
+  margin-bottom: 10px; 
+}
+
+::-webkit-scrollbar-track-piece:start {
+  background: transparent;
+  margin-top: 10px;
+}

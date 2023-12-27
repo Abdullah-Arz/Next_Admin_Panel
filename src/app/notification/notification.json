@@ -1,0 +1,38 @@
+{
+    "status": true,
+    "status_code": 200,
+    "message": "Successfully fetch",
+    "data": [
+        {
+            "id": 1,
+            "title": "blog",
+            "date_of_publish": "2023-09-21T06:27:02.967000Z",
+            "discriptions":"nutritionist"
+        },
+        {
+            "id": 2,
+            "title": "blog",
+            "date_of_publish": "2023-09-21T06:27:02.967000Z",
+            "discriptions":"nutritionist nutritionist nutritionist nutritionist nutritionist"
+        },
+        {
+            "id": 3,
+            "title": "blog",
+            "date_of_publish": "2023-09-21T06:27:02.967000Z",
+            "discriptions":"nutritionist nutritionist nutritionist nutritionist nutritionist"
+        },
+        {
+            "id": 4,
+            "title": "blog",
+            "date_of_publish": "2023-09-21T06:27:02.967000Z",
+            "discriptions":"nutritionist nutritionist nutritionist nutritionist nutritionist"
+        },
+        {
+            "id": 5,
+            "title": "blog",
+            "date_of_publish": "2023-09-21T06:27:02.967000Z",
+            "discriptions":"nutritionist nutritionist nutritionist nutritionist nutritionist"
+        }
+     
+    ]
+}
