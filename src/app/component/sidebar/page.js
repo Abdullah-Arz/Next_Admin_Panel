@@ -28,7 +28,8 @@ import {
   TbUserCheck,
   TbUserX,
   TbArticle,
-  TbClipboardText 
+  TbClipboardText,
+  TbLicense  
 } from "react-icons/tb";
 import { usePathname, useRouter } from 'next/navigation'
 import { IoMenu } from "react-icons/io5";
@@ -53,7 +54,7 @@ function page() {
     { id: 7, title: "Recipe", icon: <TbArticle   />,link:'/recipe' },
     { id: 8, title: "Payments", icon: <TbCash />,link:'/payments' },
     { id: 8, title: "Static Content", icon: <TbClipboardText  />,link:'/static_content' },
-    { id: 9, title: "Subscriptions", icon: <TbUserCheck />,link:'/subscriptions' },
+    { id: 9, title: "Subscriptions", icon: <TbLicense   />,link:'/subscriptions' },
     { id: 10, title: "Notification", icon: <TbNotification />,link:'/notification' },
     // { id: 6, title: "User Policy Form", icon: <AiFillDiff />,link:'/user_policy' },
     // { id: 7, title: "Pro Policy Form", icon: <AiOutlineSolution />,link:'/pro_policy' },
@@ -109,7 +110,7 @@ function page() {
           sizes="100vw"
           style={{
             width: "30px",
-            height: "25px",
+            height: "30px",
             transition: "width 0.5s ease-in-out, height 0.5s ease-in-out",
           }}
           className="cursor-pointer block float-left mr-2"

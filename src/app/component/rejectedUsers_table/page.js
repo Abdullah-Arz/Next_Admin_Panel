@@ -129,7 +129,7 @@ export default function page({data}) {
       case "email":
         return (
           <div className="flex flex-col">
-            <p className="text-bold text-small capitalize">{cellValue}</p>
+            <p className="text-bold text-small">{cellValue}</p>
             {/* <p className="text-bold text-tiny capitalize text-default-500">{user.team}</p> */}
           </div>
         );
